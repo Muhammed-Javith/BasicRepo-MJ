@@ -1,1 +1,1 @@
-# [MyProject](https://github.com/Muhammed-Javith/MyProject)
+# [MyProject](https://github.com/Muhammed-Javith/MyRepo-MJ)
